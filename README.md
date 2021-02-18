@@ -2,4 +2,4 @@
 
 This is CS100 course for Git seminar.
 
-Done by youns & victory
+Done by YounSeo & JooYon
